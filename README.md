@@ -25,5 +25,5 @@ Create a file called `contacts.csv` with the following headers:
 
 ```csv
 name,phone_number,website
-Alice,+911234567890,https://aliceshop.com
-Bob,+971501234567,http://bobsdeals.in
+Ria,+911234567890,https://bodyshop.com
+Aastha,+971501234567,http://bestdaydeals.in
